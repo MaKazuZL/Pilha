@@ -1,2 +1,2 @@
 # Pilha
- Pilha em C++.
+ Pilha com abstração de dados.
