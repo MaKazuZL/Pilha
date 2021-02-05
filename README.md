@@ -1,2 +1,2 @@
 # Pilha
- Pilha com abstração de dados.
+ Pilha com abstração de dados simples.
